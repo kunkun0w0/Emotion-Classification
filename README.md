@@ -11,3 +11,8 @@ In this project we:
 
 
 > The project is implemented by the tensorflow2.0 and the notebook link is [here](https://colab.research.google.com/drive/1ViI_5V9cAWhCJ_nWR9CQMPvkXw8yaInF?usp=sharing). Feel free to run.
+
+The real-time demo is located at `./demo` and is implemented with tf2.0 and opencv.
+Just run `demo.py`.
+
+**The final presentation video is [here](https://www.youtube.com/watch?v=Yrk_VesM-as), showing what we have done in detail including the real-time demo performance.**
